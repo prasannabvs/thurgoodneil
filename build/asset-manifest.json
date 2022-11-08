@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/thurgoodneil/static/css/main.0281c78b.css",
+    "main.js": "/thurgoodneil/static/js/main.a9a81d73.js",
+    "index.html": "/thurgoodneil/index.html",
+    "main.0281c78b.css.map": "/thurgoodneil/static/css/main.0281c78b.css.map",
+    "main.a9a81d73.js.map": "/thurgoodneil/static/js/main.a9a81d73.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0281c78b.css",
+    "static/js/main.a9a81d73.js"
+  ]
+}
